@@ -22,4 +22,4 @@ This repository contains all the code for your convenience:
 	</tr>
 </table>
 
-View the [documentation/working sample]().
+View the [documentation/working sample](https://support.brightcove.com/analytics-api-sample-video-report-player-and-day).
